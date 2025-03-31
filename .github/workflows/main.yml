@@ -48,6 +48,7 @@ jobs:
           haxelib install actuate
           haxelib install hxCodec 2.5.1
           haxelib install hscript
+          haxelib install hxvlc
           haxelib git lime https://github.com/mcagabe19-stuff/lime
           haxelib git maru-hscript https://github.com/MaybeMaru/hscript-improved
           haxelib git moonchart https://github.com/MaybeMaru/moonchart
